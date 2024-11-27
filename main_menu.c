@@ -4,7 +4,8 @@
 #include "treatment.h"
 #include"pharmacy.h"
 #include"room.h"
-#include "bill.c"
+#include "bill.h"
+#include "main_menu.h"
 
 int main_menu()
 {
